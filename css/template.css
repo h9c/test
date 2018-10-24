@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    width: 900px;
+    margin: auto;
+    padding: 10px 0 0 0;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td, th, tr {
+    padding: 3px;
+    border: 1px solid black;
+}
+.table {
+    margin: auto;
+    width: 500px;
+}
+#mainmenu {
+    height: 436px;
+    padding-top: 10px;
+    margin: auto;
+    width: 565px;
+}
+#mainmenu div {
+    width: 264px;
+    overflow: hidden;
+    height: 165px;
+    padding: 7px;
+}
+#bottom {
+    background-color: #609bd5;
+    width: auto;
+    height: 90px;
+    margin: 10px 0px;
+}
+
+
+.img_logo_left {
+    float: left;
+}
+.img_logo_left img {
+    height: 165px;
+    width: 275px;
+}
+
+.img_logo_right {
+    float: right;
+}
+.img_logo_right img {
+    height: 165px;
+    width: 275px;
+}
