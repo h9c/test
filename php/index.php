@@ -20,19 +20,19 @@
 			<td><a href="">14. Цикл foreach</a></td>
 		</tr>
 		<tr>
-			<td><a href="">3. Действия с переменными</a></td>
+			<td><a href="03_deystviya_s_peremennymi.php">3. Действия с переменными</a></td>
 			<td><a href="">15. Операции с массивами</a></td>
 		</tr>
 		<tr>
-			<td><a href="">4. Ссылочные переменные</a></td>
+			<td><a href="04_ssilochnye_peremennie.php">4. Ссылочные переменные</a></td>
 			<td><a href="">16. Функции</a></td>
 		</tr>
 		<tr>
-			<td><a href="">5. Константы</a></td>
+			<td><a href="05_constanty.php">5. Константы</a></td>
 			<td><a href="">17. Область видимости переменных</a></td>
 		</tr>
 		<tr>
-			<td><a href="">6. Математические операции</a></td>
+			<td><a href="06_matemoperacii.php">6. Математические операции</a></td>
 			<td><a href="">18. Рекурсия в функциях</a></td>
 		</tr>
 		<tr>
