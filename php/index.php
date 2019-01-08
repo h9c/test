@@ -32,12 +32,12 @@
 			<td><a href="">17. Область видимости переменных</a></td>
 		</tr>
 		<tr>
-			<td><a href="06_matemoperacii.php">6. Математические операции</a></td>
+			<td><a href="06_mathematical_operations.php">6. Математические операции</a></td>
 			<td><a href="">18. Рекурсия в функциях</a></td>
 		</tr>
 		<tr>
 			<td><a href="">7. Строковые операции</a></td>
-			<td><a href="">19. Анонимные функции</a></td>
+			<td><a href="19_anonymous_functions.php">19. Анонимные функции</a></td>
 		</tr>
 		<tr>
 			<td><a href="">8. Логические операции</a></td>
@@ -49,7 +49,7 @@
 		</tr>
 		<tr>
 			<td><a href="">10. Цикл for</a></td>
-			<td><a href="">22. Массив $_SERVER</a></td>
+			<td><a href="22_array_server.php">22. Массив $_SERVER</a></td>
 		</tr>
 		<tr>
 			<td><a href="">11. Цикл while и do-while</a></td>
