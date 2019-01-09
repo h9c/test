@@ -36,11 +36,11 @@
 			<td><a href="">18. Рекурсия в функциях</a></td>
 		</tr>
 		<tr>
-			<td><a href="">7. Строковые операции</a></td>
+			<td><a href="07_string_operations.php">7. Строковые операции</a></td>
 			<td><a href="19_anonymous_functions.php">19. Анонимные функции</a></td>
 		</tr>
 		<tr>
-			<td><a href="">8. Логические операции</a></td>
+			<td><a href="08_logical_operations.php">8. Логические операции</a></td>
 			<td><a href="">20. Генераторы</a></td>
 		</tr>
 		<tr>
