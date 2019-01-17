@@ -44,7 +44,7 @@
 			<td><a href="">20. Генераторы</a></td>
 		</tr>
 		<tr>
-			<td><a href="">9. Оператор if-else</a></td>
+			<td><a href="09_If_else_statement.php">9. Оператор if-else</a></td>
 			<td><a href="">21. Отладочные функции</a></td>
 		</tr>
 		<tr>
