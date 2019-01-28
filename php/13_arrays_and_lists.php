@@ -173,26 +173,36 @@ $flowers = [
     [
         'name' => 'Цветы',
         "price" => 'Цена',
-        "amount" => 'Количество'
+        "amount" => 'Количество',
+        "amoun" => 'Количеств2'
     ],
     [
         'name' => 'розы',
         "price" => 100,
+        "pric" => 24,
         "amount" => 15
     ],
     [
         'name' => "тюльпаны",
         "price" => 60,
+        "pric" => 13,
         "amount" => 25
     ],
     [
         'name' => "орхидеи",
         "price" => 180,
+        "pric" => 12,
         "amount" => 7
-    ]
+    ],
+    [
+    'name' => "орхидеи",
+    "price" => 180,
+        "pric" => 34,
+    "amount" => 7
+]
 ];
 $a = 1;
-echo 'Маленькая таблица<br>';
+echo 'Маленькая таблица (Столбцы заданы в ручную)<br>';
 echo '<table border=\'1\' cellpadding=\'3\'>
         <tr>';
 for ($th = 1; $th < 4; $th++) {
@@ -210,8 +220,27 @@ for ($row = 0; $row < 4; $row++) {
 echo '</table>';
 $dash ();
 
+
+
 // Подсчитать колонки и автоматически их выводить
 // Автоматически заполнить таблицу
+echo 'Маленькая таблица 2 Столбцы задаются автоматически<br>';
+echo '<table border=\'1\' cellpadding=\'3\'>
+        <tr>';
+for ($i = 1; $i < count($flowers); $i++) {
+    echo '<th>Столбец № ' . $i . '</th>';
+}
+echo '</tr>';
+
+for ($row = 0; $row < count($flowers); $row++) {
+    echo '<tr>';
+    foreach ($flowers[$row] as $key => $value) {
+        echo '<td style="text-align: center">' . $value . '</td>';
+    }
+    echo '</tr>';
+}
+echo '</table>';
+$dash ();
 
 
 
