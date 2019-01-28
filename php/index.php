@@ -13,22 +13,22 @@
 	<table style="width: 500px">
 		<tr>
 			<td><a href="00_test.php">1. Тестирование</a></td>
-			<td><a href="">13. Массивы и списки</a></td>
+			<td><a href="13_arrays_and_lists.php">13. Массивы и списки</a></td>
 		</tr>
 		<tr>
-			<td><a href="02_peremennye_i_ix_tipy.php">2. Переменные и их типы</a></td>
+			<td><a href="02_variables_and_their_types.php">2. Переменные и их типы</a></td>
 			<td><a href="">14. Цикл foreach</a></td>
 		</tr>
 		<tr>
-			<td><a href="03_deystviya_s_peremennymi.php">3. Действия с переменными</a></td>
+			<td><a href="03_actions_with_variables.php">3. Действия с переменными</a></td>
 			<td><a href="">15. Операции с массивами</a></td>
 		</tr>
 		<tr>
-			<td><a href="04_ssilochnye_peremennie.php">4. Ссылочные переменные</a></td>
+			<td><a href="04_reference_variables.php">4. Ссылочные переменные</a></td>
 			<td><a href="">16. Функции</a></td>
 		</tr>
 		<tr>
-			<td><a href="05_constanty.php">5. Константы</a></td>
+			<td><a href="05_constants.php">5. Константы</a></td>
 			<td><a href="">17. Область видимости переменных</a></td>
 		</tr>
 		<tr>
@@ -48,15 +48,15 @@
 			<td><a href="">21. Отладочные функции</a></td>
 		</tr>
 		<tr>
-			<td><a href="">10. Цикл for</a></td>
+			<td><a href="10_cycle_for.php">10. Цикл for</a></td>
 			<td><a href="22_array_server.php">22. Массив $_SERVER</a></td>
 		</tr>
 		<tr>
-			<td><a href="">11. Цикл while и do-while</a></td>
+			<td><a href="11_the_while_loop_and_do_while.php">11. Цикл while и do-while</a></td>
 			<td><a href="">23. Обработка форм</a></td>
 		</tr>
 		<tr>
-			<td><a href="">12. Оператор switch-case</a></td>
+			<td><a href="12_the_switch_case_operator.php">12. Оператор switch-case</a></td>
 			<td><a href="">24. Инструкции include и require</a></td>
 		</tr>
 	</table>

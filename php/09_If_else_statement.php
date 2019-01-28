@@ -191,6 +191,37 @@ $img = $_GET['img'] ?? false;
 if ($img == 'full') echo '<img src="https://pp.userapi.com/c836429/v836429454/35370/w8Tmme62q4Q.jpg" width="320"  alt=""/>';
 elseif ($img == 'smol') echo '<img src="https://pp.userapi.com/c836429/v836429454/35370/w8Tmme62q4Q.jpg" width="120"  alt=""/>';
 elseif ($img) echo 'Неизвестно';
+
+$a = 5; // Альтернативный синтаксис
+if ($a == 5) :
+    echo 'A равно 5<br>';
+endif;
+$dash ();
+
+$a = 6;
+if ($a == 5):
+    echo "a равно 5";
+    echo "...";
+elseif ($a == 6):
+    echo "a равно 6";
+    echo "!!!<br>";
+else:
+    echo "a не равно ни 5 ни 6";
+endif;
+
+// Обычный вид написания
+if ($a == 5) {
+    echo "a равно 5";
+    echo "...";
+} elseif ($a == 6) {
+    echo "a равно 6";
+    echo "!!!";
+} else {
+    echo "a не равно ни 5 ни 6";
+}
+
+
+
 ?>
 
 
