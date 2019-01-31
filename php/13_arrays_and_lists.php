@@ -341,12 +341,12 @@ $mod = [
 echo "<table border = '1' cellpadding = '3' >
 <tr>";
 for ($i = 1; $i <= 4; $i++) {
-        echo '<th>Столбец № '. $i . '</th>';
+    echo '<th>Столбец № ' . $i . '</th>';
 }
 echo "</tr>";
 for ($i = 0; $i < count($mod); $i++) {
     echo '<tr>';
-    foreach ($mod[$i] as $key => $value ) {
+    foreach ($mod[$i] as $key => $value) {
         echo '<td style="text-align: center">' . $value . '</td>';
     }
     echo '</tr>';
