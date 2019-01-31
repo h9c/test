@@ -80,3 +80,12 @@ for ($h = 1; $h < 10; $h++) {
 }
 echo '<br />';
 $dash ();
+
+echo 'Простая таблица заполненная с помощью цикла for';
+echo "<table border='1' cellpadding='3'>";
+  for ($i = 0; $i < 6; $i++) {
+      echo "<tr>";
+      for ($q = 1; $q <= 10; $q++)
+          echo "<td>$q</td>";
+      echo '</tr>';
+  }

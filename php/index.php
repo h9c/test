@@ -17,11 +17,11 @@
 		</tr>
 		<tr>
 			<td><a href="02_variables_and_their_types.php">2. Переменные и их типы</a></td>
-			<td><a href="">14. Цикл foreach</a></td>
+			<td><a href="14_the_foreach_cycle.php">14. Цикл foreach</a></td>
 		</tr>
 		<tr>
 			<td><a href="03_actions_with_variables.php">3. Действия с переменными</a></td>
-			<td><a href="">15. Операции с массивами</a></td>
+			<td><a href="15_array_operations.php">15. Операции с массивами</a></td>
 		</tr>
 		<tr>
 			<td><a href="04_reference_variables.php">4. Ссылочные переменные</a></td>
