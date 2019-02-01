@@ -25,7 +25,7 @@
         </tr>
         <tr>
             <td><a href="04_reference_variables.php">4. Ссылочные переменные</a></td>
-            <td><a href="">16. Функции</a></td>
+            <td><a href="16_functions.php">16. Функции</a></td>
         </tr>
         <tr>
             <td><a href="05_constants.php">5. Константы</a></td>
