@@ -29,11 +29,11 @@
         </tr>
         <tr>
             <td><a href="05_constants.php">5. Константы</a></td>
-            <td><a href="">17. Область видимости переменных</a></td>
+            <td><a href="17_scope_of_functions.php">17. Область видимости переменных</a></td>
         </tr>
         <tr>
             <td><a href="06_mathematical_operations.php">6. Математические операции</a></td>
-            <td><a href="">18. Рекурсия в функциях</a></td>
+            <td><a href="18_recursion_in_functions.php">18. Рекурсия в функциях</a></td>
         </tr>
         <tr>
             <td><a href="07_string_operations.php">7. Строковые операции</a></td>
